@@ -3,6 +3,7 @@
 // classes and functuins defined in http://emberjs.com/api/data.
 
 import DS from 'ember-data';
+import Ember from 'ember';
 
 // Define the default export for this model, which will be a subclass of DS.model
 // After this class has been defined, we can import this subclass doing: 
